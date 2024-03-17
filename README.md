@@ -1,4 +1,4 @@
-# openlane4
+APB MASTER(RTL TO GDSII)
 RTL to GDS (Register Transfer Level to Graphic Design System) conversion of an APB (Advanced Peripheral Bus) master in the AMBA (Advanced Microcontroller Bus Architecture) protocols is a crucial step in the digital design flow. This process involves transforming a high-level hardware description in RTL code into a physical layout that can be fabricated as an integrated circuit.
 
 OpenLane is an automated RTL to GDS flow tool that streamlines the entire digital design process. GitHub Codespaces is a cloud-based development environment that allows you to code and collaborate on projects directly from your browser. Combining OpenLane with GitHub Codespaces offers an efficient and collaborative platform for digital design projects.
